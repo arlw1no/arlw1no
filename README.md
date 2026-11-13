@@ -4,8 +4,8 @@
   <img src="https://media.tenor.com/QxWz76eRcEgAAAAM/black-blinkie.gif" width="200" alt="2">
   <img src="https://media1.tenor.com/m/7MGO8KB1kO0AAAAC/pan-pride-blinkie.gif" width="200" alt="3">
 </p>
-<img align="left" src="https://media1.tenor.com/m/y8e6aN0inTsAAAAC/jimmy-urine-little-jimmy-urine.gif" width="410" />
-<img align="right" src="https://media1.tenor.com/m/BnSva9msYXIAAAAC/jimmy-urine-james-euringer.gif" width="410" />
+<img align="left" src="https://media1.tenor.com/m/y8e6aN0inTsAAAAC/jimmy-urine-little-jimmy-urine.gif" width="425" />
+<img align="right" src="https://media1.tenor.com/m/BnSva9msYXIAAAAC/jimmy-urine-james-euringer.gif" width="425" />
   
 <br clear="all">
 <br>
