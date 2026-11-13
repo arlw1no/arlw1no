@@ -9,9 +9,6 @@
   
 <br clear="all">
 <p align="center">
-  <img src="file:///C:/Users/User/Downloads/converted_image_1%20(1).png" width="200">
-    </p>
-<p align="center">
   <a href="https://t.me/foreverneverexisted">
     <img src="https://picasion.com/gl/93/mxiG.gif" width="1000" alt="https://t.me/foreverneverexisted">
 </a>
