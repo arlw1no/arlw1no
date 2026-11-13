@@ -11,6 +11,6 @@
 <br>
 <p align="center">
   <a href="https://t.me/foreverneverexisted">
-    <img src="https://picasion.com/gl/93/mxi7.gif" width="500" alt="https://t.me/foreverneverexisted">
+    <img src="https://picasion.com/gl/93/mxiG.gif" width="1000" alt="https://t.me/foreverneverexisted">
 </a>
 </p>
