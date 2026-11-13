@@ -33,5 +33,5 @@
   <img src="https://github.com/user-attachments/assets/48c0296b-0c62-4af8-909f-15fb00256808" width="300">
 </p>
 <p align="center">
-<img src="https://media1.tenor.com/m/CfLKHKOqRr0AAAAC/jimmy-urine-mindless-self-indulgence.gif" width="800">
+<img src="https://media1.tenor.com/m/CfLKHKOqRr0AAAAC/jimmy-urine-mindless-self-indulgence.gif" width="400">
 </p>
