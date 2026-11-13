@@ -1,7 +1,7 @@
 <p align="center"> ⎛⎝ ≽ > ⩊ < ≼ ⎠⎞</p>
 <p align="center">
   <img src="https://media1.tenor.com/m/p3aJpWqSiaQAAAAd/blinkie-blinkies.gif" width="200" alt="1">
-  <img src="https://media.tenor.com/QxWz76eRcEgAAAAM/black-blinkie.gif" width="200" alt="2">
+  <img src="https://blinkies.cafe/b/display/0005-citystars.gif" width="200" alt="2">
   <img src="https://media1.tenor.com/m/7MGO8KB1kO0AAAAC/pan-pride-blinkie.gif" width="200" alt="3">
 </p>
 <img align="left" src="https://media1.tenor.com/m/y8e6aN0inTsAAAAC/jimmy-urine-little-jimmy-urine.gif" width="423" />
