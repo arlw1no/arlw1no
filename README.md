@@ -10,6 +10,9 @@
 <br clear="all">
 <br>
 <p align="center">
+  <img src="blob:https://web.telegram.org/38798761-dead-4106-a383-c34cccb2c208" width="200"
+    </p>
+<p align="center">
   <a href="https://t.me/foreverneverexisted">
     <img src="https://picasion.com/gl/93/mxiG.gif" width="1000" alt="https://t.me/foreverneverexisted">
 </a>
