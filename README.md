@@ -1,8 +1,7 @@
+<p align="center"> ⎛⎝ ≽ > ⩊ < ≼ ⎠⎞</p>
 <p align="center">
   <img src="https://media1.tenor.com/m/BrbOuwWDVQsAAAAC/virgin-typing.gif" width="300">
 </p>
-<br>
-<p align="center"> ⎛⎝ ≽ > ⩊ < ≼ ⎠⎞</p>
 <p align="center">
   <img src="https://media1.tenor.com/m/p3aJpWqSiaQAAAAd/blinkie-blinkies.gif" width="200" alt="1">
   <img src="https://web.archive.org/web/20090809234329im_/http://www.geocities.com/latinchica320/blond-g.gif" width="200" alt="2">
@@ -32,4 +31,7 @@
 </p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/48c0296b-0c62-4af8-909f-15fb00256808" width="300">
+</p>
+<p align="center">
+<img src="https://media1.tenor.com/m/CfLKHKOqRr0AAAAC/jimmy-urine-mindless-self-indulgence.gif" width="800">
 </p>
