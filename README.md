@@ -9,7 +9,8 @@
   
 <br clear="all">
 <br>
-
 <p align="center">
-  <a href="https://t.me/foreverneverexisted">stuff to get a betta taste in music</a>
+  <a href="https://t.me/foreverneverexisted">
+    <img src="https://picasion.com/gl/93/mxi7.gif" width="500" alt="https://t.me/foreverneverexisted">
+</a>
 </p>
