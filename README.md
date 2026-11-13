@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/BrbOuwWDVQsAAAAC/virgin-typing.gif" width="400">
+  <img src="https://media1.tenor.com/m/BrbOuwWDVQsAAAAC/virgin-typing.gif" width="300">
 </p>
+<br>
+<br>
 <br>
 <p align="center"> ⎛⎝ ≽ > ⩊ < ≼ ⎠⎞</p>
 <p align="center">
