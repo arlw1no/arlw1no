@@ -7,5 +7,5 @@
 <br clear="all">
 
 <p align="center">
-  <a href="https://t.me/foreverneverexisted">ma socialz</a>
+  <a href="https://t.me/foreverneverexisted">stuff to get a betta taste in music</a>
 </p>
