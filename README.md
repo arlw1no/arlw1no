@@ -8,9 +8,8 @@
 <img align="right" src="https://media1.tenor.com/m/BnSva9msYXIAAAAC/jimmy-urine-james-euringer.gif" width="423" />
   
 <br clear="all">
-<br>
 <p align="center">
-  <img src="blob:https://web.telegram.org/38798761-dead-4106-a383-c34cccb2c208" width="200"
+  <img src="file:///C:/Users/User/Downloads/converted_image_1%20(1).png" width="200">
     </p>
 <p align="center">
   <a href="https://t.me/foreverneverexisted">
