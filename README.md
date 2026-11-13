@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://media1.tenor.com/m/p3aJpWqSiaQAAAAd/blinkie-blinkies.gif" width="200" alt="1">
   <img src="https://web.archive.org/web/20090809234329im_/http://www.geocities.com/latinchica320/blond-g.gif" width="200" alt="2">
-  <img src="https://web.archive.org/web/20090809234329im_/http://www.geocities.com/latinchica320/blinky10.gif" width="200" alt="3">
+  <img src="https://web.archive.org/web/20090809234349im_/http://www.geocities.com/latinchica320/blinky10.gif" width="200" alt="3">
 </p>
 <img align="left" src="https://media1.tenor.com/m/y8e6aN0inTsAAAAC/jimmy-urine-little-jimmy-urine.gif" width="423" />
 <img align="right" src="https://media1.tenor.com/m/BnSva9msYXIAAAAC/jimmy-urine-james-euringer.gif" width="423" />
