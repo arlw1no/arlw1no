@@ -14,6 +14,9 @@
   <img src="https://media1.tenor.com/m/7MGO8KB1kO0AAAAC/pan-pride-blinkie.gif" width="200" alt="2">
   <img src="https://web.archive.org/web/20090809234329im_/http://www.geocities.com/latinchica320/biteme.gif" width="200" alt="3">
   </p>
+  <p align="center">
+    <img src="https://i10.glitter-graphics.org/pub/596/596700ww4lqn6hc7.gif" width="200" alt="1">
+  </p>
 <p align="center">
 <img src="https://github.com/user-attachments/assets/8845d14b-6d67-46e3-8af8-b5ae1272f2d4" width="300">
 </p>
