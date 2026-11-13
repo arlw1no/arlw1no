@@ -2,8 +2,6 @@
   <img src="https://media1.tenor.com/m/BrbOuwWDVQsAAAAC/virgin-typing.gif" width="300">
 </p>
 <br>
-<br>
-<br>
 <p align="center"> ⎛⎝ ≽ > ⩊ < ≼ ⎠⎞</p>
 <p align="center">
   <img src="https://media1.tenor.com/m/p3aJpWqSiaQAAAAd/blinkie-blinkies.gif" width="200" alt="1">
