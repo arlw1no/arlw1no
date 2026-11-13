@@ -15,5 +15,7 @@
 </a>
 </p>
 <p align="center">
-<img src="https://blob.gifcities.org/gifcities/6WGAYNLO76JUEOLWMYDF2Y55TSRVSLAY.gif" width="200"
+<img src="https://web.archive.org/web/20090809234329im_/http://www.geocities.com/latinchica320/blond-g.gif" width="200" alt="1">
+  <img src="https://web.archive.org/web/20090809234329im_/http://www.geocities.com/latinchica320/biteme.gif" width="200" alt="2">
+  <img src="https://web.archive.org/web/20090809234329im_/http://www.geocities.com/latinchica320/blinky10.gif" width="200" alt="3">
   </p>
