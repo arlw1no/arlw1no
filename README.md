@@ -1,6 +1,5 @@
 <div id="header" align="center">
 <h1>⎛⎝ ≽ > ⩊ < ≼ ⎠⎞</h1>
 </div>
-<div id="header" align="center">
-  <img src="https://media1.tenor.com/m/y8e6aN0inTsAAAAC/jimmy-urine-little-jimmy-urine.gif" width="200"/>
-</div>
+<img align="left" src="https://media1.tenor.com/m/y8e6aN0inTsAAAAC/jimmy-urine-little-jimmy-urine.gif" width="200" />
+<img align="right" src="https://tenor.com/ru/view/jimmy-urine-james-euringer-mindless-self-indulgence-msi-gif-465189539274318194" width="200" />
