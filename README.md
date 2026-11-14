@@ -11,7 +11,8 @@
     <img src="https://picasion.com/gl/93/mxrv.gif" width="900">
   </p>
   <p align="center">
-    <img src="https://picasion.com/gl/93/mxrF.gif" width="400">
+    <img src="https://picasion.com/gl/93/mxrF.gif" width="400" alt="1">
+         <img src="https://web.archive.org/web/20090723134658im_/http://hk.geocities.com/alwayshappyleewah/z.am.cat.x.gif" width="40" alt="2">
   </p>
   <p align="center">
     <img src="https://img1.picmix.com/output/stamp/normal/9/0/7/7/47709_99f82.gif" width="50">
@@ -44,6 +45,7 @@
   </p>
   <p align="center">
     <img src="https://i10.glitter-graphics.org/pub/596/596700ww4lqn6hc7.gif" width="200" alt="1">
+    <img src="https://img1.picmix.com/output/stamp/thumb/7/5/9/1/2341957_f7a91.gif" width="200" alt="2">
   </p>
 <p align="center">
 <img src="https://media1.tenor.com/m/URQWR2uQc30AAAAC/red-glitter-divider.gif" width="300" alt="1">
