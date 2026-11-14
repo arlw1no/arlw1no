@@ -2,6 +2,31 @@
 <p align="center">
   <img src="https://media1.tenor.com/m/BrbOuwWDVQsAAAAC/virgin-typing.gif" width="300">
 </p>
+  <p align="center">
+    <img src="https://media1.tenor.com/m/yzSASy6zaGcAAAAC/divider.gif" width="200" alt="1">
+    <img src="https://media1.tenor.com/m/yzSASy6zaGcAAAAC/divider.gif" width="200" alt="2">
+    <img src="https://media1.tenor.com/m/yzSASy6zaGcAAAAC/divider.gif" width="200" alt="3">
+  </p>
+  <p align="center">
+    <img src="https://picasion.com/gl/93/mxrv.gif" width="900">
+  </p>
+  <p align="center">
+    <img src="https://picasion.com/gl/93/mxrF.gif" width="400">
+  </p>
+  <p align="center">
+    <img src="https://img1.picmix.com/output/stamp/normal/9/0/7/7/47709_99f82.gif" width="50">
+    <a href="https://t.me/couldddoforever"><img src="https://picasion.com/gl/93/mxrU.gif" width="360" alt="https://t.me/couldddoforever"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+    <img src="https://img1.picmix.com/output/stamp/thumb/5/9/6/7/1397695_e162d.gif" width="40">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.tiktok.com/@arl2q?_r=1&_t=ZS-9BOMntffUrU"><img src="https://picasion.com/gl/93/mxrI.gif" width="220" alt="https://www.tiktok.com/@arl2q?_r=1&_t=ZS-9BOMntffUrU"></a>
+    <img src="https://img1.picmix.com/output/stamp/normal/9/0/7/7/47709_99f82.gif" width="50">
+  </p>
+    <p align="center">
+    <img src="https://media1.tenor.com/m/yzSASy6zaGcAAAAC/divider.gif" width="200" alt="1">
+    <img src="https://media1.tenor.com/m/yzSASy6zaGcAAAAC/divider.gif" width="200" alt="2">
+    <img src="https://media1.tenor.com/m/yzSASy6zaGcAAAAC/divider.gif" width="200" alt="3">
+  </p>
 <p align="center">
   <img src="https://media1.tenor.com/m/p3aJpWqSiaQAAAAd/blinkie-blinkies.gif" width="200" alt="1">
   <img src="https://web.archive.org/web/20090809234329im_/http://www.geocities.com/latinchica320/blond-g.gif" width="200" alt="2">
@@ -21,16 +46,18 @@
     <img src="https://i10.glitter-graphics.org/pub/596/596700ww4lqn6hc7.gif" width="200" alt="1">
   </p>
 <p align="center">
-<img src="https://media1.tenor.com/m/URQWR2uQc30AAAAC/red-glitter-divider.gif" width="300">
+<img src="https://media1.tenor.com/m/URQWR2uQc30AAAAC/red-glitter-divider.gif" width="300" alt="1">
+<img src="https://media1.tenor.com/m/URQWR2uQc30AAAAC/red-glitter-divider.gif" width="300" alt="2">
 </p>
 
 <p align="center">
   <a href="https://t.me/foreverneverexisted">
-    <img src="https://picasion.com/gl/93/mxiG.gif" width="1000" alt="https://t.me/foreverneverexisted">
+    <img src="https://picasion.com/gl/93/mxrC.gif" width="1000" alt="https://t.me/foreverneverexisted">
 </a>
 </p>
 <p align="center">
-  <img src="https://media1.tenor.com/m/URQWR2uQc30AAAAC/red-glitter-divider.gif" width="300">
+  <img src="https://media1.tenor.com/m/URQWR2uQc30AAAAC/red-glitter-divider.gif" width="300" alt="1">
+  <img src="https://media1.tenor.com/m/URQWR2uQc30AAAAC/red-glitter-divider.gif" width="300" alt="2">
 </p>
 <p align="center">
   <img src="https://img1.picmix.com/output/stamp/normal/7/4/1/8/2808147_03d0b.gif" width="200" alt="1">
