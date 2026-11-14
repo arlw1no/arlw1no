@@ -79,7 +79,7 @@
   <img src="https://media.tenor.com/pX4AOxF7ZFQAAAAM/томатгифмб-tomatgifmb.gif" width="250" alt="2">
   </p>
   <p align="center">
-<img src="https://github.com/user-attachments/assets/07c87b63-6eda-4f23-8e04-f424c79f0f5d" width="400"  alt="gif-with-image">
+<img src="https://github.com/user-attachments/assets/046eda8c-0a9a-4ec6-abc0-48caa3e18f80" width="400" alt="gif-with-image-transparent-merged">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://media.tenor.com/xDwirtPLScoAAAAM/forest-creek.gif" width="300" alt="2">
   </p>
