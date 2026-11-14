@@ -1,4 +1,3 @@
-<p align="center"> ⎛⎝ ≽ > ⩊ < ≼ ⎠⎞</p>
 <p align="center">
   <img src="https://media1.tenor.com/m/BrbOuwWDVQsAAAAC/virgin-typing.gif" width="300">
 </p>
