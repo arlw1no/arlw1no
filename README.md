@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="https://web.archive.org/web/20090805121439im_/http://geocities.com/Vienna/1430/larleaves.gif" width="110" alt="1">
-  <img src="https://media1.tenor.com/m/BrbOuwWDVQsAAAAC/virgin-typing.gif" width="300" alt="2">
-  <img src="https://web.archive.org/web/20090805121439im_/http://geocities.com/Vienna/1430/larleaves.gif" width="110" alt="3">
+<img src="https://github.com/user-attachments/assets/26da21ce-9421-40d2-9034-310412ec1511" width="600" alt="typingngngng">
 </p>
   <p align="center">
     <img src="https://media1.tenor.com/m/yzSASy6zaGcAAAAC/divider.gif" width="200" alt="1">
@@ -49,8 +47,8 @@
     <img src="https://img1.picmix.com/output/stamp/thumb/7/5/9/1/2341957_f7a91.gif" width="200" alt="2">
   </p>
 <p align="center">
-<img src="https://media1.tenor.com/m/URQWR2uQc30AAAAC/red-glitter-divider.gif" width="300" alt="1">
-<img src="https://media1.tenor.com/m/URQWR2uQc30AAAAC/red-glitter-divider.gif" width="300" alt="2">
+<img src="https://media.tenor.com/Rr2KLpIqYioAAAAm/blood-divider.webp" width="300" alt="1">
+<img src="https://media.tenor.com/Rr2KLpIqYioAAAAm/blood-divider.webp" width="300" alt="2">
 </p>
 
 <p align="center">
