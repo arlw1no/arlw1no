@@ -78,7 +78,7 @@
   </p>
   <p align="center">
     <img src="https://img1.picmix.com/output/stamp/thumb/1/7/2/7/2687271_a699f.png" width="300" alt="1">
-    <img src="https://media.tenor.com/pX4AOxF7ZFQAAAAM/томатгифмб-tomatgifmb.gif" width="250" alt="2">
+  <img src="https://media.tenor.com/pX4AOxF7ZFQAAAAM/томатгифмб-tomatgifmb.gif" width="250" alt="2">
   </p>
   <p align="center">
     <img src="https://media1.tenor.com/m/tvXCVkwjvCYAAAAC/bunny-cute.gif" width="400">
