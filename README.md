@@ -47,7 +47,11 @@
     <img src="https://img1.picmix.com/output/stamp/thumb/1/7/9/8/2648971_fc29b.gif" width="200" alt="3">
   </p>
   <p align="center">
-    <img src="https://img1.picmix.com/output/stamp/thumb/1/7/2/7/2687271_a699f.png" width="300">
+    <img src="https://img1.picmix.com/output/stamp/thumb/1/7/2/7/2687271_a699f.png" width="300" alt="1">
+    <img src="https://media.tenor.com/pX4AOxF7ZFQAAAAM/томатгифмб-tomatgifmb.gif" width="250" alt="2">
+  </p>
+  <p align="center">
+    <img src="https://media1.tenor.com/m/tvXCVkwjvCYAAAAC/bunny-cute.gif" width="400">
   </p>
 <p align="center">
 <img src="https://media.tenor.com/ZZ-3mcIqE5oAAAAi/love-hearts.gif" width="100" alt="1">
