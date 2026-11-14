@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/26da21ce-9421-40d2-9034-310412ec1511" width="400" alt="typingngngng">
+<img src="https://github.com/user-attachments/assets/44a7b5ed-9342-4c90-bcf7-f346432bf674" width="900" alt="taiping">
 </p>
   <p align="center">
     <img src="https://media1.tenor.com/m/yzSASy6zaGcAAAAC/divider.gif" width="200" alt="1">
