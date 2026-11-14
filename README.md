@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/BrbOuwWDVQsAAAAC/virgin-typing.gif" width="300">
+  <img src="https://web.archive.org/web/20090805121439im_/http://geocities.com/Vienna/1430/larleaves.gif" width="110" alt="1">
+  <img src="https://media1.tenor.com/m/BrbOuwWDVQsAAAAC/virgin-typing.gif" width="300" alt="2">
+  <img src="https://web.archive.org/web/20090805121439im_/http://geocities.com/Vienna/1430/larleaves.gif" width="110" alt="3">
 </p>
   <p align="center">
     <img src="https://media1.tenor.com/m/yzSASy6zaGcAAAAC/divider.gif" width="200" alt="1">
