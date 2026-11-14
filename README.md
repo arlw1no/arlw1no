@@ -16,9 +16,9 @@
   <p align="center">
     <img src="https://img1.picmix.com/output/stamp/normal/9/0/7/7/47709_99f82.gif" width="50">
     <a href="https://t.me/couldddoforever"><img src="https://picasion.com/gl/93/mxrU.gif" width="360" alt="https://t.me/couldddoforever"></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
     <img src="https://img1.picmix.com/output/stamp/thumb/5/9/6/7/1397695_e162d.gif" width="40">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
     <a href="https://www.tiktok.com/@arl2q?_r=1&_t=ZS-9BOMntffUrU"><img src="https://picasion.com/gl/93/mxrI.gif" width="220" alt="https://www.tiktok.com/@arl2q?_r=1&_t=ZS-9BOMntffUrU"></a>
     <img src="https://img1.picmix.com/output/stamp/normal/9/0/7/7/47709_99f82.gif" width="50">
   </p>
