@@ -87,6 +87,9 @@
     <img src="https://media.tenor.com/hf6Y0QFVrsEAAAAm/blood-drip-blood.webp" width="350" alt="1">
     <img src="https://media.tenor.com/hf6Y0QFVrsEAAAAm/blood-drip-blood.webp" width="350" alt="2">
   </p>
+  <p align="center">
+    <img src="https://media1.tenor.com/m/RvfHuKCK76UAAAAC/jimmy-urine-james-euringer.gif" width="200" alt="1">
+  </p>
 <p align="center">
 <img src="https://media.tenor.com/ZZ-3mcIqE5oAAAAi/love-hearts.gif" width="100" alt="1">
   <img src="https://media1.tenor.com/m/CfLKHKOqRr0AAAAC/jimmy-urine-mindless-self-indulgence.gif" width="200" alt="2">
