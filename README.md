@@ -21,7 +21,7 @@
     <img src="https://i10.glitter-graphics.org/pub/596/596700ww4lqn6hc7.gif" width="200" alt="1">
   </p>
 <p align="center">
-<img src="https://github.com/user-attachments/assets/8845d14b-6d67-46e3-8af8-b5ae1272f2d4" width="300">
+<img src="https://media1.tenor.com/m/URQWR2uQc30AAAAC/red-glitter-divider.gif" width="300">
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 </a>
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/48c0296b-0c62-4af8-909f-15fb00256808" width="300">
+  <img src="https://media1.tenor.com/m/URQWR2uQc30AAAAC/red-glitter-divider.gif" width="300">
 </p>
 <p align="center">
   <img src="https://img1.picmix.com/output/stamp/normal/7/4/1/8/2808147_03d0b.gif" width="200" alt="1">
