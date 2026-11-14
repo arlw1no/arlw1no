@@ -97,6 +97,9 @@
   <p align="center">
     <img src="https://picasion.com/gl/93/mxu1.gif" width="350">
   </p>
+  <p align="center">
+    <img src="https://media1.tenor.com/m/PS9VhlK_R9IAAAAC/jimmy-urine-james-euringer.gif" width="400">
+  </p>
 <p align="center">
 <img src="https://media.tenor.com/ZZ-3mcIqE5oAAAAi/love-hearts.gif" width="100" alt="1">
   <img src="https://media1.tenor.com/m/CfLKHKOqRr0AAAAC/jimmy-urine-mindless-self-indulgence.gif" width="200" alt="2">
