@@ -81,7 +81,13 @@
   <img src="https://media.tenor.com/pX4AOxF7ZFQAAAAM/томатгифмб-tomatgifmb.gif" width="250" alt="2">
   </p>
   <p align="center">
-    <img src="https://media1.tenor.com/m/tvXCVkwjvCYAAAAC/bunny-cute.gif" width="400">
+<img src="https://github.com/user-attachments/assets/a3094a74-ea58-4d4e-b087-61199431b826" width="400" alt="overlay -1--transparent">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://media.tenor.com/xDwirtPLScoAAAAM/forest-creek.gif" width="300" alt="2">
+  </p>
+  <p align="center">
+    <img src="https://media.tenor.com/hf6Y0QFVrsEAAAAm/blood-drip-blood.webp" width="350" alt="1">
+    <img src="https://media.tenor.com/hf6Y0QFVrsEAAAAm/blood-drip-blood.webp" width="350" alt="2">
   </p>
 <p align="center">
 <img src="https://media.tenor.com/ZZ-3mcIqE5oAAAAi/love-hearts.gif" width="100" alt="1">
