@@ -15,6 +15,11 @@
         <picture>
 <img alt="MSI (1)" src="https://github.com/user-attachments/assets/611cbc54-3aeb-4fcb-b694-f8d1726d3661" width="350">
         </picture>
+         <a href="https://www.tiktok.com/@arl2q?_r=1&_t=ZS-9BOMntffUrU">
+        <picture>
+<img alt="MSI (2)" src="https://github.com/user-attachments/assets/8671e1f3-4241-4698-922f-4c45ee4cbcd8" width="200">
+        </picture>
+         </a>
   <br/>
   <img src="https://img.shields.io/badge/angryboy-009-black" width="300">
 </p>
