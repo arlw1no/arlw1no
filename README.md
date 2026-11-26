@@ -18,7 +18,7 @@
         </picture>
          <a href="https://www.tiktok.com/@arl2q?_r=1&_t=ZS-9BOMntffUrU">
         <picture>
-<img alt="MSI (2)" src="https://github.com/user-attachments/assets/8671e1f3-4241-4698-922f-4c45ee4cbcd8" width="200">
+<img alt="MSI (2)" src="https://github.com/user-attachments/assets/8671e1f3-4241-4698-922f-4c45ee4cbcd8" width="180">
         </picture>
          </a>
   <br/>
