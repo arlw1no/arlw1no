@@ -22,5 +22,6 @@
         </picture>
          </a>
   <br/>
-  <img src="https://img.shields.io/badge/angryboy-009-black" width="300">
+<br>
+  <img src="https://img.shields.io/badge/angryboy-009-black" width="250">
 </p>
