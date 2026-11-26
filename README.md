@@ -11,7 +11,7 @@
     <img align ="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fiebv4tlcr273knnwicoo4thbe&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=dark">
   </a>
 c+h ,, w2i when afk
-  <br>
+  <br><br>
   <br/>
   <img src="https://img.shields.io/badge/angryboy-009-black" width="300">
 </p>
