@@ -12,7 +12,6 @@
   </a>
         <br>
 <h3 align="left"> 𓏼⠀ ⠀ ⠀c+h ,, w2i when afk </h3>
-  <br>
   <br/>
   <img src="https://img.shields.io/badge/angryboy-009-black" width="300">
 </p>
