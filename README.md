@@ -19,7 +19,7 @@
  <img alt="Untitled139_20261115175205" src="https://github.com/user-attachments/assets/0d45c98e-314e-4c44-a48c-407937cbb917" width="300">
   </a>
     <a href="https://www.tiktok.com/@arl2q?_r=1&_t=ZS-9BOMntffUrU">
-<img alt="Untitled139_20261115175618" src="https://github.com/user-attachments/assets/d8472443-647a-41d9-b65d-e7612dc1409a" width="260">
+<img alt="Untitled139_20261115175618" src="https://github.com/user-attachments/assets/d8472443-647a-41d9-b65d-e7612dc1409a" width="270">
     </a>
 </p>
 <br clear="all">
