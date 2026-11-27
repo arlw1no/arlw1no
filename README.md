@@ -22,7 +22,7 @@
 <img alt="MSI (2)" src="https://github.com/user-attachments/assets/8671e1f3-4241-4698-922f-4c45ee4cbcd8" width="180">
         </picture>
          </a>
-  <br/>
-  <br>
+</p>
+<p>
   <img src="https://img.shields.io/badge/angryboy-009-black" width="250">
 </p>
