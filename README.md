@@ -7,7 +7,7 @@
 <picture>
 <img alt="MSI" src="https://github.com/user-attachments/assets/bb232688-69ff-4096-9390-f3322f2cfa92" width="500">
  </picture>
-<img alt="Static Badge" src="https://img.shields.io/badge/-%20-aca958?style=flat&height=3" width="100%" height="3" alt="" />
+<img alt="Static Badge" src="https://img.shields.io/badge/-%20-918926?style=flat&height=3" width="100%" height="3" alt="" />
 </p>
 <p align="left">
   <a href="https://github.com/kittinan/spotify-github-profile">
