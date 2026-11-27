@@ -11,8 +11,9 @@
 </p>
 <p align="left">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img align ="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fiebv4tlcr273knnwicoo4thbe&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=dark">
+    <img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fiebv4tlcr273knnwicoo4thbe&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=true&hide_remaster=false&bar_color_cover=true&bar_color=53b14f&mode=dark">
   </a>
+</p>
         <picture>
 <img alt="MSI (1)" src="https://github.com/user-attachments/assets/611cbc54-3aeb-4fcb-b694-f8d1726d3661" width="350">
         </picture>
